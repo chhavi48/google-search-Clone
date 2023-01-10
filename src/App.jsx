@@ -10,7 +10,7 @@ function App() {
         <BrowserRouter>
             <Routes>
                 <Route path="/" exact element={<Home />} />
-                <Route path="/search" element={<SearchResult />} />
+                <Route path="/:query/:startIndex" element={<SearchResult />} />
             </Routes>
         </BrowserRouter>
     )
