@@ -1,4 +1,10 @@
 # google-search-Clone
+<h3>Responsiveness </h3>
+
+
+
+https://user-images.githubusercontent.com/77965216/212331569-381c3d00-64fe-4d71-a868-316400757c12.mp4
+
 <h4>Home Page </h4>
 <img src="https://user-images.githubusercontent.com/77965216/212329693-277938e3-0cd5-45ed-8663-883308b3f64c.png"/>
 <h4>Main Search Result Page</h4>
