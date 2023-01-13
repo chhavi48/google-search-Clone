@@ -6,6 +6,7 @@ import Logo from "../assets/google-pagination-logo.png";
 import { pagination } from "../utils/Constants";
 
 const Pagination = () => {
+    const [page,setpage]=useState()
     return <div>Pagination</div>;
 };
 

@@ -54,7 +54,7 @@ const { items, queries, searchInformation } = result;
                         ))}
                     </div>
                 )}
-  
+  <Pagination queries={queries}/>
   </main>
   <Footer/>
     </div>
